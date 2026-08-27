@@ -1,0 +1,196 @@
+{
+  "nav": {
+    "firm": "Firm",
+    "expertise": "Expertise",
+    "founder": "Jonathan Ackmann",
+    "insights": "Insights",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "footer": {
+    "privacy": "Privacy",
+    "legal": "Legal Notice",
+    "rights": "All rights reserved."
+  },
+  "hero": {
+    "title": "ACKMANN LAW FIRM",
+    "positioning": "Independent legal counsel for business, finance and regulation.",
+    "ctaPrimary": "Explore the firm",
+    "ctaSecondary": "Contact"
+  },
+  "intro": {
+    "statement": "Ackmann Law Firm advises companies, investors and individuals at the intersection of law, finance and regulation. The practice combines legal analysis with a practical understanding of banking, compliance and public-sector processes — translating complex regulatory environments into clear, actionable guidance for clients in Israel and abroad."
+  },
+  "pillars": {
+    "law": {
+      "title": "Law",
+      "body": "Precise legal counsel across corporate, commercial and administrative matters."
+    },
+    "finance": {
+      "title": "Finance",
+      "body": "A working understanding of banking, credit and financial institutions."
+    },
+    "regulation": {
+      "title": "Regulation",
+      "body": "Guidance through regulatory, compliance and public-sector requirements."
+    }
+  },
+  "expertise": {
+    "eyebrow": "Expertise",
+    "viewAll": "View all expertise",
+    "items": {
+      "banking-finance": "Banking & Finance",
+      "financial-regulation": "Financial Regulation",
+      "corporate-commercial": "Corporate & Commercial",
+      "compliance": "Compliance",
+      "administrative-public-law": "Administrative & Public Law",
+      "dispute-resolution": "Dispute Resolution",
+      "private-clients": "Private Clients"
+    }
+  },
+  "founder": {
+    "eyebrow": "The Founder",
+    "title": "Attorney at Law",
+    "bar": "Israeli Bar No. {number}",
+    "bio": "Jonathan Ackmann advises clients at the intersection of law, finance and regulation, drawing on experience in banking compliance, public-sector legal work and financial institutions.",
+    "cta": "View profile"
+  },
+  "insights": {
+    "eyebrow": "Insights",
+    "viewAll": "View all insights",
+    "empty": "New insights are on the way. Check back soon."
+  },
+  "contactCta": {
+    "statement": "Let’s discuss your matter.",
+    "cta": "Contact the firm"
+  },
+  "firmPage": {
+    "eyebrow": "The Firm",
+    "title": "An independent practice built for law, finance and regulation.",
+    "intro": "Ackmann Law Firm was founded to serve clients who need more than legal drafting — a counsel who understands how financial institutions, regulators and businesses actually operate. Based in Jerusalem, the practice serves companies, investors and individuals across Israel and internationally.",
+    "approachTitle": "Approach",
+    "approachBody": "Every matter starts with the same question: what does the client actually need to move forward? The firm favors direct, precise advice over generic memoranda — grounded in the practical realities of banking, compliance and public-sector process, not just the letter of the law.",
+    "perspectiveTitle": "Law, Finance & Regulation",
+    "perspectiveBody": "Legal problems rarely stay inside legal boundaries. A financing agreement raises regulatory questions; a compliance issue has commercial consequences. The firm's background across banking, financial regulation and public-sector work means these dimensions are considered together from the outset, not addressed as an afterthought.",
+    "philosophyTitle": "Working Philosophy",
+    "philosophyBody": "Clear communication, realistic expectations, and responsiveness. Clients should never have to guess where a matter stands or translate legal jargon on their own. The firm keeps engagements focused and proportionate to what is actually at stake."
+  },
+  "jonathanPage": {
+    "bioExtended": "Jonathan Ackmann founded the firm to bring a combined legal, financial and regulatory perspective to clients navigating Israel's business and public-sector environment. His background spans financial regulation and compliance work at KPMG Somekh Chaikin, public-sector legal matters, and banking and international-client work at Bank Leumi. He was admitted to the Israeli Bar in December 2024.",
+    "educationTitle": "Education",
+    "education": [
+      { "degree": "LL.B. Law", "institution": "Reichman University", "years": "2019–2023" },
+      { "degree": "M.A. Financial Economics", "institution": "Reichman University", "years": "2015–2017" },
+      { "degree": "B.A. Economics", "institution": "Université Paris Nanterre", "years": "2011–2015" }
+    ],
+    "experienceTitle": "Experience",
+    "experience": [
+      { "name": "KPMG Somekh Chaikin", "description": "Financial regulation, credit data and compliance matters, including work within the Bank of Israel Credit Data environment." },
+      { "name": "Public-sector legal experience", "description": "Public procurement, tenders, contracts and legal opinions on administrative and public-financing matters." },
+      { "name": "Bank Leumi", "description": "Banking and international-client matters, including AML, CRS and FATCA." }
+    ],
+    "barTitle": "Bar Admission",
+    "barBody": "Israeli Bar No. {number}, admitted {date}.",
+    "languagesTitle": "Languages",
+    "languages": ["English", "French", "Hebrew"],
+    "practiceAreasTitle": "Areas of Practice"
+  },
+  "breadcrumbs": {
+    "home": "Home"
+  },
+  "expertisePage": {
+    "title": "Expertise across law, finance and regulation.",
+    "intro": "Practical legal counsel across the areas where law, finance and regulation meet — for companies, investors and individuals operating in Israel and internationally."
+  },
+  "expertiseDetail": {
+    "keyMattersLabel": "Key Matters",
+    "servicesLabel": "Services",
+    "approachLabel": "Approach",
+    "banking-finance": {
+      "intro": "Advice on financing arrangements, credit facilities and day-to-day banking relationships, with a practical understanding of how financial institutions actually operate.",
+      "keyMatters": ["Credit and financing agreements", "Banking relationships and disputes", "Cross-border financial transactions"],
+      "services": ["Loan and facility documentation", "Security and guarantee structuring", "Bank account and credit disputes"],
+      "approach": "Banking matters are reviewed both as legal instruments and financial arrangements, so risk allocation and commercial terms are considered together, not in isolation."
+    },
+    "financial-regulation": {
+      "intro": "Guidance through Israel's financial regulatory framework, including compliance obligations facing banks, credit providers and regulated financial institutions.",
+      "keyMatters": ["Regulatory compliance programs", "Credit data and reporting obligations", "Interactions with financial regulators"],
+      "services": ["Regulatory compliance review", "Credit Data Law guidance", "Representation before financial regulators"],
+      "approach": "Regulatory questions are addressed with an understanding of both the legal text and how supervisory bodies apply it in practice."
+    },
+    "corporate-commercial": {
+      "intro": "Corporate structuring, commercial agreements and day-to-day legal support for companies operating in Israel and abroad.",
+      "keyMatters": ["Company formation and governance", "Commercial contracts", "Shareholder arrangements"],
+      "services": ["Corporate structuring advice", "Commercial contract drafting and review", "Shareholder and governance agreements"],
+      "approach": "Commercial advice is kept proportionate to the size and stage of the business — precise where it matters, without unnecessary complexity."
+    },
+    "compliance": {
+      "intro": "Compliance frameworks for businesses navigating regulatory, banking and public-sector requirements, built to be workable in practice, not just on paper.",
+      "keyMatters": ["AML and financial crime compliance", "CRS and FATCA reporting", "Internal compliance policies"],
+      "services": ["Compliance program design", "AML/CRS/FATCA advisory", "Compliance training and internal guidance"],
+      "approach": "Compliance advice starts from how a business actually operates, so requirements are integrated into existing processes rather than added as a separate burden."
+    },
+    "administrative-public-law": {
+      "intro": "Legal support on public procurement, tenders and administrative processes involving Israeli public-sector bodies.",
+      "keyMatters": ["Public tenders and procurement", "Administrative decisions and appeals", "Public financing arrangements"],
+      "services": ["Tender preparation and review", "Administrative appeals", "Legal opinions on public-sector matters"],
+      "approach": "Public-sector matters are approached with attention to procedure — administrative processes have their own rules, and getting them right matters as much as the underlying substance."
+    },
+    "dispute-resolution": {
+      "intro": "Resolution of commercial and financial disputes, with a preference for practical outcomes over prolonged conflict where possible.",
+      "keyMatters": ["Commercial and contractual disputes", "Banking and financial disputes", "Pre-litigation negotiation"],
+      "services": ["Dispute strategy and assessment", "Negotiation and settlement", "Litigation support"],
+      "approach": "Every dispute is assessed first on its merits and its cost — litigation is pursued when it is the right tool, not the default one."
+    },
+    "private-clients": {
+      "intro": "Personal legal advice for individuals navigating regulatory, banking or administrative matters in Israel, including international and French-speaking clients.",
+      "keyMatters": ["Personal banking and regulatory matters", "Cross-border client concerns", "Administrative matters affecting individuals"],
+      "services": ["Personal legal advice", "Banking-related representation", "Administrative matter support"],
+      "approach": "Private clients receive the same precision and directness as institutional clients, with advice translated clearly out of legal and regulatory jargon."
+    }
+  },
+  "insightsPage": {
+    "title": "Insights on law, finance and regulation.",
+    "intro": "Analysis and updates on the legal, financial and regulatory questions that matter to businesses and individuals in Israel."
+  },
+  "contactPage": {
+    "title": "Get in touch.",
+    "intro": "Reach out by phone, email or the form below. Every message is reviewed personally — you'll hear back promptly.",
+    "whatsapp": "WhatsApp"
+  },
+  "contactForm": {
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone (optional)",
+    "subjectLabel": "Subject (optional)",
+    "messageLabel": "Message",
+    "send": "Send message",
+    "sending": "Sending…",
+    "successMessage": "Thank you — your message has been sent. We'll be in touch shortly.",
+    "serverError": "Something went wrong on our end. Please try again, or email us directly.",
+    "errorSummaryTitle": "There is a problem",
+    "errors": {
+      "required": "This field is required.",
+      "emailInvalid": "Please enter a valid email address.",
+      "messageTooShort": "Please add a bit more detail (at least 10 characters)."
+    }
+  },
+  "privacyPage": {
+    "body": "This page will contain the firm's privacy policy, describing how personal data submitted through this site is collected, used and protected. Final wording is pending legal review and will be published before the site's public launch. For questions in the meantime, please contact the firm directly."
+  },
+  "legalPage": {
+    "body": "This page will contain the firm's legal notice, including the regulatory disclosures required for a licensed Israeli law practice. Final wording is pending legal review and will be published before the site's public launch. For questions in the meantime, please contact the firm directly."
+  },
+  "notFoundPage": {
+    "title": "Page not found.",
+    "body": "The page you're looking for doesn't exist or may have moved.",
+    "cta": "Back to homepage"
+  },
+  "errorPage": {
+    "title": "Something went wrong.",
+    "body": "An unexpected error occurred. Please try again, or return to the homepage.",
+    "retry": "Try again",
+    "home": "Back to homepage"
+  }
+}

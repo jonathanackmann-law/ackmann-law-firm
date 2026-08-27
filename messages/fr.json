@@ -1,0 +1,196 @@
+{
+  "nav": {
+    "firm": "Cabinet",
+    "expertise": "Expertise",
+    "founder": "Jonathan Ackmann",
+    "insights": "Analyses",
+    "contact": "Contact",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu"
+  },
+  "footer": {
+    "privacy": "Confidentialité",
+    "legal": "Mentions légales",
+    "rights": "Tous droits réservés."
+  },
+  "hero": {
+    "title": "ACKMANN LAW FIRM",
+    "positioning": "Conseil juridique indépendant pour les entreprises, la finance et la réglementation.",
+    "ctaPrimary": "Découvrir le cabinet",
+    "ctaSecondary": "Contact"
+  },
+  "intro": {
+    "statement": "Ackmann Law Firm conseille entreprises, investisseurs et particuliers à la croisée du droit, de la finance et de la réglementation. Le cabinet allie analyse juridique et compréhension pratique des enjeux bancaires, de conformité et administratifs — pour traduire des environnements réglementaires complexes en conseils clairs et actionnables, en Israël comme à l'international."
+  },
+  "pillars": {
+    "law": {
+      "title": "Droit",
+      "body": "Un conseil juridique précis en droit des sociétés, commercial et administratif."
+    },
+    "finance": {
+      "title": "Finance",
+      "body": "Une compréhension pratique du secteur bancaire, du crédit et des institutions financières."
+    },
+    "regulation": {
+      "title": "Réglementation",
+      "body": "Un accompagnement dans les exigences réglementaires, de conformité et administratives."
+    }
+  },
+  "expertise": {
+    "eyebrow": "Expertise",
+    "viewAll": "Voir toute l'expertise",
+    "items": {
+      "banking-finance": "Banque & Finance",
+      "financial-regulation": "Réglementation financière",
+      "corporate-commercial": "Droit des sociétés & commercial",
+      "compliance": "Conformité",
+      "administrative-public-law": "Droit administratif & public",
+      "dispute-resolution": "Règlement des litiges",
+      "private-clients": "Clients privés"
+    }
+  },
+  "founder": {
+    "eyebrow": "Le fondateur",
+    "title": "Avocat",
+    "bar": "Barreau israélien n° {number}",
+    "bio": "Jonathan Ackmann conseille ses clients à la croisée du droit, de la finance et de la réglementation, fort d'une expérience en conformité bancaire, en droit public et au sein d'institutions financières.",
+    "cta": "Voir le profil"
+  },
+  "insights": {
+    "eyebrow": "Analyses",
+    "viewAll": "Voir toutes les analyses",
+    "empty": "De nouvelles analyses arrivent bientôt. Revenez prochainement."
+  },
+  "contactCta": {
+    "statement": "Discutons de votre dossier.",
+    "cta": "Contacter le cabinet"
+  },
+  "firmPage": {
+    "eyebrow": "Le Cabinet",
+    "title": "Un cabinet indépendant pensé pour le droit, la finance et la réglementation.",
+    "intro": "Ackmann Law Firm a été fondé pour accompagner des clients qui ont besoin de plus qu'une rédaction juridique — un conseil qui comprend le fonctionnement réel des institutions financières, des régulateurs et des entreprises. Basé à Jérusalem, le cabinet sert des entreprises, des investisseurs et des particuliers en Israël comme à l'international.",
+    "approachTitle": "Approche",
+    "approachBody": "Chaque dossier part de la même question : de quoi le client a-t-il réellement besoin pour avancer ? Le cabinet privilégie un conseil direct et précis plutôt que des mémorandums génériques — ancré dans les réalités pratiques de la banque, de la conformité et des procédures administratives, au-delà de la seule lettre de la loi.",
+    "perspectiveTitle": "Droit, Finance & Réglementation",
+    "perspectiveBody": "Les questions juridiques dépassent rarement le seul cadre légal. Un accord de financement soulève des questions réglementaires ; un enjeu de conformité a des conséquences commerciales. L'expérience du cabinet en matière bancaire, de réglementation financière et de droit public permet d'envisager ces dimensions ensemble dès le départ, non comme un correctif ultérieur.",
+    "philosophyTitle": "Philosophie de travail",
+    "philosophyBody": "Une communication claire, des attentes réalistes et une vraie réactivité. Un client ne devrait jamais avoir à deviner où en est son dossier, ni à décoder seul le jargon juridique. Le cabinet garde des mandats ciblés et proportionnés aux enjeux réels."
+  },
+  "jonathanPage": {
+    "bioExtended": "Jonathan Ackmann a fondé le cabinet pour apporter à ses clients une perspective conjointe — juridique, financière et réglementaire — dans l'environnement économique et administratif israélien. Son parcours inclut la réglementation financière et la conformité chez KPMG Somekh Chaikin, une expérience juridique dans le secteur public, ainsi que des dossiers bancaires et internationaux chez Bank Leumi. Il a été admis au barreau israélien en décembre 2024.",
+    "educationTitle": "Formation",
+    "education": [
+      { "degree": "Licence en droit (LL.B.)", "institution": "Reichman University", "years": "2019–2023" },
+      { "degree": "Master en économie financière", "institution": "Reichman University", "years": "2015–2017" },
+      { "degree": "Licence en économie", "institution": "Université Paris Nanterre", "years": "2011–2015" }
+    ],
+    "experienceTitle": "Expérience",
+    "experience": [
+      { "name": "KPMG Somekh Chaikin", "description": "Réglementation financière, données de crédit et conformité, y compris dans l'environnement Credit Data de la Banque d'Israël." },
+      { "name": "Expérience juridique dans le secteur public", "description": "Marchés publics, appels d'offres, contrats et avis juridiques sur des questions administratives et de financement public." },
+      { "name": "Bank Leumi", "description": "Dossiers bancaires et clients internationaux, incluant AML, CRS et FATCA." }
+    ],
+    "barTitle": "Admission au barreau",
+    "barBody": "Barreau israélien n° {number}, admis en {date}.",
+    "languagesTitle": "Langues",
+    "languages": ["Anglais", "Français", "Hébreu"],
+    "practiceAreasTitle": "Domaines de pratique"
+  },
+  "breadcrumbs": {
+    "home": "Accueil"
+  },
+  "expertisePage": {
+    "title": "Une expertise au croisement du droit, de la finance et de la réglementation.",
+    "intro": "Un conseil juridique pratique dans les domaines où se croisent le droit, la finance et la réglementation — pour des entreprises, des investisseurs et des particuliers opérant en Israël et à l'international."
+  },
+  "expertiseDetail": {
+    "keyMattersLabel": "Domaines d'intervention",
+    "servicesLabel": "Services",
+    "approachLabel": "Approche",
+    "banking-finance": {
+      "intro": "Conseil sur les financements, les facilités de crédit et les relations bancaires courantes, avec une compréhension pratique du fonctionnement réel des institutions financières.",
+      "keyMatters": ["Conventions de crédit et de financement", "Relations et litiges bancaires", "Transactions financières transfrontalières"],
+      "services": ["Documentation de prêts et facilités", "Structuration de sûretés et garanties", "Litiges bancaires et de compte"],
+      "approach": "Les dossiers bancaires sont examinés à la fois comme des instruments juridiques et des montages financiers, pour que la répartition des risques et les conditions commerciales soient pensées ensemble."
+    },
+    "financial-regulation": {
+      "intro": "Accompagnement dans le cadre réglementaire financier israélien, y compris les obligations de conformité des banques, prêteurs et institutions financières régulées.",
+      "keyMatters": ["Programmes de conformité réglementaire", "Obligations de données de crédit et de reporting", "Relations avec les régulateurs financiers"],
+      "services": ["Revue de conformité réglementaire", "Conseil sur la loi relative aux données de crédit", "Représentation devant les régulateurs financiers"],
+      "approach": "Les questions réglementaires sont traitées avec une compréhension à la fois du texte juridique et de son application concrète par les autorités de supervision."
+    },
+    "corporate-commercial": {
+      "intro": "Structuration de sociétés, contrats commerciaux et accompagnement juridique courant pour des entreprises opérant en Israël et à l'étranger.",
+      "keyMatters": ["Constitution et gouvernance de sociétés", "Contrats commerciaux", "Pactes d'actionnaires"],
+      "services": ["Conseil en structuration de sociétés", "Rédaction et révision de contrats commerciaux", "Pactes d'actionnaires et gouvernance"],
+      "approach": "Le conseil commercial reste proportionné à la taille et au stade de l'entreprise — précis là où cela compte, sans complexité inutile."
+    },
+    "compliance": {
+      "intro": "Dispositifs de conformité pour des entreprises confrontées à des exigences réglementaires, bancaires et administratives, conçus pour être applicables en pratique, pas seulement sur le papier.",
+      "keyMatters": ["Conformité anti-blanchiment et criminalité financière", "Reporting CRS et FATCA", "Politiques internes de conformité"],
+      "services": ["Conception de programmes de conformité", "Conseil AML/CRS/FATCA", "Formation et accompagnement interne à la conformité"],
+      "approach": "Le conseil en conformité part du fonctionnement réel de l'entreprise, pour intégrer les exigences aux processus existants plutôt que d'en faire une charge séparée."
+    },
+    "administrative-public-law": {
+      "intro": "Accompagnement juridique sur les marchés publics, appels d'offres et procédures administratives impliquant des organismes publics israéliens.",
+      "keyMatters": ["Marchés publics et appels d'offres", "Décisions administratives et recours", "Montages de financement public"],
+      "services": ["Préparation et revue d'appels d'offres", "Recours administratifs", "Avis juridiques sur des questions du secteur public"],
+      "approach": "Les dossiers du secteur public sont traités avec une attention particulière à la procédure — les processus administratifs ont leurs propres règles, et les respecter compte autant que le fond."
+    },
+    "dispute-resolution": {
+      "intro": "Résolution de litiges commerciaux et financiers, avec une préférence pour des solutions pratiques plutôt qu'un conflit prolongé lorsque cela est possible.",
+      "keyMatters": ["Litiges commerciaux et contractuels", "Litiges bancaires et financiers", "Négociation précontentieuse"],
+      "services": ["Stratégie et évaluation du litige", "Négociation et règlement amiable", "Accompagnement en contentieux"],
+      "approach": "Chaque litige est d'abord évalué sur le fond et sur son coût — le contentieux est engagé quand c'est le bon outil, pas par défaut."
+    },
+    "private-clients": {
+      "intro": "Conseil juridique personnel pour des particuliers confrontés à des questions réglementaires, bancaires ou administratives en Israël, y compris des clients internationaux et francophones.",
+      "keyMatters": ["Questions bancaires et réglementaires personnelles", "Enjeux transfrontaliers", "Questions administratives individuelles"],
+      "services": ["Conseil juridique personnel", "Représentation dans des dossiers bancaires", "Accompagnement dans des démarches administratives"],
+      "approach": "Les clients privés reçoivent la même précision et la même clarté que les clients institutionnels, avec un conseil traduit clairement, sans jargon juridique ou réglementaire."
+    }
+  },
+  "insightsPage": {
+    "title": "Analyses sur le droit, la finance et la réglementation.",
+    "intro": "Analyses et actualités sur les questions juridiques, financières et réglementaires qui comptent pour les entreprises et les particuliers en Israël."
+  },
+  "contactPage": {
+    "title": "Nous contacter.",
+    "intro": "Par téléphone, e-mail ou via le formulaire ci-dessous. Chaque message est lu personnellement — vous aurez une réponse rapidement.",
+    "whatsapp": "WhatsApp"
+  },
+  "contactForm": {
+    "nameLabel": "Nom",
+    "emailLabel": "E-mail",
+    "phoneLabel": "Téléphone (facultatif)",
+    "subjectLabel": "Sujet (facultatif)",
+    "messageLabel": "Message",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours…",
+    "successMessage": "Merci — votre message a bien été envoyé. Nous reviendrons vers vous rapidement.",
+    "serverError": "Une erreur est survenue de notre côté. Merci de réessayer, ou de nous écrire directement.",
+    "errorSummaryTitle": "Un problème est survenu",
+    "errors": {
+      "required": "Ce champ est obligatoire.",
+      "emailInvalid": "Veuillez saisir une adresse e-mail valide.",
+      "messageTooShort": "Merci de préciser un peu plus (10 caractères minimum)."
+    }
+  },
+  "privacyPage": {
+    "body": "Cette page contiendra la politique de confidentialité du cabinet, décrivant la collecte, l'utilisation et la protection des données personnelles transmises via ce site. Le contenu définitif est en attente de relecture juridique et sera publié avant le lancement public du site. Pour toute question dans l'intervalle, merci de contacter directement le cabinet."
+  },
+  "legalPage": {
+    "body": "Cette page contiendra les mentions légales du cabinet, incluant les informations réglementaires requises pour un cabinet d'avocats agréé en Israël. Le contenu définitif est en attente de relecture juridique et sera publié avant le lancement public du site. Pour toute question dans l'intervalle, merci de contacter directement le cabinet."
+  },
+  "notFoundPage": {
+    "title": "Page introuvable.",
+    "body": "La page que vous cherchez n'existe pas ou a été déplacée.",
+    "cta": "Retour à l'accueil"
+  },
+  "errorPage": {
+    "title": "Une erreur est survenue.",
+    "body": "Une erreur inattendue s'est produite. Merci de réessayer, ou de retourner à l'accueil.",
+    "retry": "Réessayer",
+    "home": "Retour à l'accueil"
+  }
+}
